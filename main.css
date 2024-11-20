@@ -119,3 +119,28 @@ footer {
 .store-front{
     width: 600px;
 }
+.vit-foto {
+    width: 515px;
+}
+.office-vit img {
+    height: 180px;
+    margin-left: 0%;
+}
+.office-vit li{
+    display: inline;
+    margin: 5;
+}
+.social-links a {
+    text-decoration: none;
+    color: #884e41;
+}
+.name {
+    font-family: "Faculty Glyphic", sans-serif;
+    padding: 5px 8px;
+    background-color: #bc796b;
+    color: #ecf0f1;
+    font-weight: 0;
+    font-weight: none;
+    font-style: italic;
+
+}
