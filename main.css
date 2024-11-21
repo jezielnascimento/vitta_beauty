@@ -120,11 +120,17 @@ footer {
     width: 600px;
 }
 .vit-foto {
-    width: 515px;
+    width: 370px;
+    margin-left: 5px;
+}
+.tat-foto {
+    width: 370px;
+    margin-right: 5px;
 }
 .office-vit img {
     height: 180px;
-    margin-left: 0%;
+    margin-left: 0;
+    
 }
 .office-vit li{
     display: inline;
